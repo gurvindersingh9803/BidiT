@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674818514035",
+    "firebase_url": "https://bidit-889f0.firebaseio.com",
+    "project_id": "bidit-889f0",
+    "storage_bucket": "bidit-889f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674818514035:android:6c32c30bbfc2e015db1e06",
+        "android_client_info": {
+          "package_name": "com.example.bidit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674818514035-ff4hedq7pjrdk9cdv81jom74gumeoa16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGcMqyTetrvgZFi72IekHWhy1X907jaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674818514035-ff4hedq7pjrdk9cdv81jom74gumeoa16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
